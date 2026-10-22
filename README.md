@@ -1,4 +1,4 @@
-## Normal :: 127.0.0.1 👋
+## Normal 👋
 
 [x](https://x.com/0xermin)
 
