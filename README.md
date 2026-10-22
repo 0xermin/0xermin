@@ -1,4 +1,15 @@
-## Hi there 👋
+## Normal :: 127.0.0.1 👋
+
+[x](https://x.com/0xermin)
+
+---
+
+### Experiencia
+
+- Ago 2012 a Actualidad | Desarrollo ETLs para carga de Datawarehouse
+- Ene 2010 a Ene 2013   | Desarrollo y Mantenimiento de Portal Web
+- Feb 2008 a Jul 2012   | Empleado Administrativo responsable de Facturacion y Cobranzas
+
 
 <!--
 **0xermin/0xermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
