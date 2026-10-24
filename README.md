@@ -1,7 +1,4 @@
-##Hola! 👋
-
-[x](https://x.com/0xermin)
-
+## Hola! 👋
 ---
 
 ### Experiencia
